@@ -13,7 +13,7 @@
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/5b9b96e0-fc9e-4f98-93dd-99a57b8d8b0b" alt="Plann.er (web view)" width="700px">
+    <img src="https://github.com/user-attachments/assets/e7dabcae-8ec4-4f31-91ae-96836af680ad" alt="Plann.er (web view)" width="900px">
 </p>
 
 > <i>Above, web view of activity scheduling in the Plann.er app.</i>
@@ -26,9 +26,9 @@
 
 <h2 id="prerequisites">📋 Prerequisites</h2>
 
-- Your preferred browser (Google, Edge, Arc or another one);
-- [fronteditor.dev](https://www.fronteditor.dev/);
-- [Visual Studio Code](https://code.visualstudio.com/) (optional).
+- Your preferred browser (Google, Edge, Arc or another one).
+- [fronteditor.dev](https://www.fronteditor.dev/)
+- [Visual Studio Code](https://code.visualstudio.com/) (optional)
 
 <h2 id="about">💻 About</h2>
 
@@ -36,6 +36,4 @@ Plann.er is the simplified version of a responsive travel itinerary application,
 
 This repository presents the result obtained through the HTML + CSS + JS path.
 
-The code was written and tested on [fronteditor.dev](https://www.fronteditor.dev/), an online editor that works in any browser and allows immediate visualization of the developed application.
-
-Furthermore, as it is a front-end project, access to the project interface located in Figma was made available to consult the specifications relating to the UI design.
+The code was written and tested on [fronteditor.dev](https://www.fronteditor.dev/), an online editor that works in any browser and allows immediate visualization of the developed application. Furthermore, as it is a front-end project, access to the project interface located in Figma was made available to consult the specifications relating to the UI design.
